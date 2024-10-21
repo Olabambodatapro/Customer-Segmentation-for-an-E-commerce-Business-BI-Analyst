@@ -44,7 +44,8 @@ These figures offer a useful range to understand spending behavior and create cu
 6. Total Spend by City and Gender:
 This treemap visualization highlights spending based on a combination of geographic and gender data.
 Key Insight: San Francisco stands out as the top city for both male and female customers, suggesting strong brand presence or purchasing power in this region.
-Conclusion:
+
+<h2>Conclusion:</h2>
 This E-commerce Customer Behavior Dashboard offers valuable insights into customer demographics and purchasing patterns. The even gender split, strong regional spending in San Francisco, and higher male customer spend all provide opportunities for targeted campaigns and tailored customer engagement strategies. Furthermore, the data indicates that middle-aged consumers are the highest spenders, which can inform future product and marketing decisions.
 
 By leveraging these insights, the business can optimize its digital marketing efforts, allocate resources effectively, and improve overall customer satisfaction and profitability.
