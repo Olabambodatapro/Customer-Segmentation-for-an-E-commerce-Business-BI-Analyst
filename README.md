@@ -1,6 +1,7 @@
 # Customer-Segmentation-for-an-E-commerce-Business-BI-Analyst
 
  Use customer data to segment users into distinct groups for better targeting in marketing campaigns. I used Python to extract and clean the data and Power BI for visualization. 
+ 
 Title: E-commerce Customer Behavior: Insights into Customer Demographics and Purchasing Patterns
 Introduction:
 This dashboard offers a comprehensive analysis of customer demographics and purchasing behavior for an e-commerce platform. By exploring factors such as customer age, gender, geographic location, and spending patterns, this dashboard aims to highlight key trends that can drive better decision-making for marketing and customer engagement strategies.
